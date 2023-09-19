@@ -1,5 +1,5 @@
 // Package checkheadersplugin plugin.
-package checkheadersplugin
+package checkheadersplugin123
 
 import (
 	"context"
